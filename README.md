@@ -39,3 +39,5 @@ A simple command-line tool to generate strong passwords and analyze their streng
 git clone https://github.com/jcosta-oaz/bat-manager.git
 cd bat-manager
 python bat-manager.py
+```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c6ae714-d717-44c4-87d6-e0ab5e900322" />
