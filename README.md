@@ -27,7 +27,10 @@ A simple command-line tool to generate strong passwords and analyze their streng
 - Standard library modules (`os`, `platform`, `time`, `secrets`, `string`, `math`)
 
 ---
-
+## Notes
+- Please always save your password files and do daily backups
+- I used AI to translate code and ident it to english
+- Enjoy :) 
 ## Installation
 
 1. Clone the repository:
